@@ -44,7 +44,7 @@ jobs:
 
 
     - name: Run Bandit
-      run: bandit -r api --severity-level high
+      run: bandit -r api --severity-level hig
 
    
 
